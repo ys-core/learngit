@@ -1,6 +1,6 @@
 # project
 
-> my first projecdt
+> my first project
 
 ## Build Setup
 
