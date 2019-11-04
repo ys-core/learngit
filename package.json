@@ -19,7 +19,7 @@
     "express-session": "^1.15.6",
     "iview": "^3.2.2",
     "mongodb": "^3.1.4",
-    "mongoose": "^5.2.15",
+    "mongoose": "^5.7.5",
     "nodemailer": "^4.7.0",
     "vue": "^2.5.2",
     "vue-meditor": "^0.9.2",
