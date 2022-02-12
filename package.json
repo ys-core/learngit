@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "ajv": "^6.6.1",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "crypto": "^1.0.1",
